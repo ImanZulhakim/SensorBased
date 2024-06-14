@@ -7,10 +7,10 @@ Fritzing Design
 
 Required components:
 
--ESP8266 microcontroller
--DHT11
--Photoresistor(LDR)
--10k Ohm resistor
--Breadboard
--Jumper wires
+- ESP8266 microcontroller
+- DHT11
+- Photoresistor(LDR)
+- 10k Ohm resistor
+- Breadboard
+- Jumper wires
 

@@ -6,6 +6,7 @@ Fritzing Design
 
 
 Required components:
+
 -ESP8266 microcontroller
 -DHT11
 -Photoresistor(LDR)
